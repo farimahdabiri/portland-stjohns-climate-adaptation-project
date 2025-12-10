@@ -87,6 +87,21 @@ These informed layout orientation and façade design.
 
 ---
 
+## Project Slides
+
+### Page 1
+![Slide 1](images/5.jpg)
+
+### Page 2
+![Slide 2](images/6.jpg)
+
+### Page 3
+![Slide 3](images/7.jpg)
+
+### Page 4
+![Slide 4](images/8.jpg)
+
+
 ## 👩‍💻 Author  
 **Farimah Dabiri**  
 MSc Urban & Regional Planning  
