@@ -1,86 +1,96 @@
-Spatial Designing for Climate Adaptation
-St. Johns Waterfront, Portland (OR), USA
+# Spatial Designing for Climate Adaptation  
+### St. Johns Waterfront, Portland (OR), USA  
 
-This project explores climate-adaptive urban design strategies for the St. Johns Waterfront district in Portland, Oregon.
+This project explores climate-adaptive urban design strategies for the St. Johns Waterfront district in Portland, Oregon.  
 It integrates urban planning, hydrological modeling (SWMM), landscape design, climate analysis, and sustainable mixed-use development approaches.
 
-Project Overview
+---
 
-The design focuses on transforming a 2.81-acre CM3-zoned site into a pedestrian-oriented, climate-resilient urban district.
+## 📌 Project Overview  
+The design focuses on transforming a **2.81-acre CM3-zoned site** into a pedestrian-oriented, climate-resilient urban district.  
 Key goals include:
 
-Increasing density while maintaining environmental resilience
+- Increasing density while maintaining environmental resilience  
+- Integrating **LID (Low Impact Development)** stormwater strategies  
+- Improving urban microclimate conditions through design interventions  
+- Creating a vibrant, mixed-use, community-oriented environment  
 
-Integrating LID (Low Impact Development) stormwater strategies
+---
 
-Improving urban microclimate conditions through design interventions
+## 🛠 Methods & Tools  
 
-Creating a vibrant, mixed-use, community-oriented environment
+### Hydrological Modeling  
+- Software: **SWMM**  
+- Processes analyzed: infiltration, runoff, water storage  
 
-Methods & Tools
+### Urban Climate Analysis  
+- Sun path  
+- Wind rose  
+- Psychrometric chart  
 
-Hydrological modeling: SWMM – infiltration, runoff, storage simulation
+### Design Tools  
+- Rhino / Grasshopper  
+- Ladybug Tools  
+- QGIS  
 
-Urban climate analysis: sun path, wind rose, psychrometric chart
+### Mapping & Visualization  
+- GIS spatial analysis  
+- Architectural layout studies  
 
-Design tools: Rhino/Grasshopper, Ladybug Tools, QGIS
+---
 
-Mapping & visualization: GIS spatial analysis + architectural layout design
-
-Hydrological Modeling (SWMM)
+## 🌧 Hydrological Modeling (SWMM)  
 
 Two scenarios were simulated:
 
-Pre-development natural condition
-
-Post-development with integrated LID measures
+1. **Pre-development natural condition**  
+2. **Post-development with integrated LID measures**
 
 Results showed significant reductions in:
 
-Peak runoff
+- Peak runoff  
+- Total runoff volume  
+- Runoff coefficient  
 
-Total runoff volume
+---
 
-Impervious runoff coefficient
+## 🌿 LID Strategies Applied  
+- Permeable pavements  
+- Bioswales  
+- Bioretention areas  
+- Stormwater storage pond  
+- Green roof systems  
 
-#LID Strategies Applied
+These measures enhanced **infiltration**, improved **stormwater retention**, and supported climate-adaptive design.
 
-Permeable pavements
+---
 
-Bioswales
+## 🏙 Urban & Architectural Design  
+- Mixed-use block arrangement (A–B–C layout)  
+- Commercial ground floors + residential upper floors  
+- Solar optimization and shading analysis  
+- Enhanced pedestrian network  
+- Energy-adaptive community configuration  
 
-Bioretention areas
+---
 
-Stormwater storage ponds
+## 📊 Climate Analysis Outputs  
+Using Ladybug Tools:
 
-Green roofs
+- Monthly rainfall averages  
+- Monthly temperature profile  
+- Wind rose (summer, fall, winter, spring)  
+- Psychrometric comfort analysis  
+- Passive & active design strategies  
 
-These measures improved infiltration capacity and increased overall water retention.
+These informed layout orientation and façade design.
 
-Urban & Architectural Design
+---
 
-Mixed-use block configuration (A–B–C blocks)
+## 👩‍💻 Author  
+**Farimah Dabiri**  
+MSc Urban & Regional Planning  
+Politecnico di Torino  
 
-Ground-floor commercial + upper-floor residential
+---
 
-Solar optimization + shading strategies
-
-Enhanced pedestrian spaces and public realm
-
-Energy-adaptive community layout
-
-📊 Climate Analysis
-
-Using Ladybug Tools, the project analyzed:
-
-Monthly rainfall
-
-Monthly temperatures
-
-Wind rose patterns
-
-Psychrometric comfort analysis
-
-Passive/active design strategies
-
-Insights informed layout, orientation, and façade design.
