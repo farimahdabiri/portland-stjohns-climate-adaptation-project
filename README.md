@@ -4,7 +4,7 @@ St. Johns Waterfront, Portland (OR), USA
 This project explores climate-adaptive urban design strategies for the St. Johns Waterfront district in Portland, Oregon.
 It integrates urban planning, hydrological modeling (SWMM), landscape design, climate analysis, and sustainable mixed-use development approaches.
 
-📌 Project Overview
+Project Overview
 
 The design focuses on transforming a 2.81-acre CM3-zoned site into a pedestrian-oriented, climate-resilient urban district.
 Key goals include:
@@ -17,7 +17,7 @@ Improving urban microclimate conditions through design interventions
 
 Creating a vibrant, mixed-use, community-oriented environment
 
-🛠 Methods & Tools
+Methods & Tools
 
 Hydrological modeling: SWMM – infiltration, runoff, storage simulation
 
@@ -27,7 +27,7 @@ Design tools: Rhino/Grasshopper, Ladybug Tools, QGIS
 
 Mapping & visualization: GIS spatial analysis + architectural layout design
 
-🌧 Hydrological Modeling (SWMM)
+Hydrological Modeling (SWMM)
 
 Two scenarios were simulated:
 
@@ -43,7 +43,7 @@ Total runoff volume
 
 Impervious runoff coefficient
 
-🌿 LID Strategies Applied
+#LID Strategies Applied
 
 Permeable pavements
 
@@ -57,7 +57,7 @@ Green roofs
 
 These measures improved infiltration capacity and increased overall water retention.
 
-🏙 Urban & Architectural Design
+Urban & Architectural Design
 
 Mixed-use block configuration (A–B–C blocks)
 
